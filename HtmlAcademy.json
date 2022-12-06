@@ -1,2 +1,10 @@
-[{"AppName":"app1","AppIcon":"hola.png","AppUrl":"url1","AppBtnText":"Instalar","AppBtnColor":"#f6b800","AppBtnColorText":"#660202"}, {"AppName":"app1","AppIcon":"hola.png","AppUrl":"url1","AppBtnText":"Instalar","AppBtnColor":"#f6b800","AppBtnColorText":"#660202"}]
+[{"AppName":"Html Academy","AppIcon":"html://erick-DevProject.github.io/appAcademy/img/html.png","AppUrl":"https://hola.png","AppBtnText":"Instalar","AppBtnColor":"#f6b800","AppBtnColorText":"#660202"},
+ {"AppName":"Css Academy","AppIcon":"html://erick-DevProject.github.io/appAcademy/img/css.png","AppUrl":"url1","AppBtnText":"Instalar","AppBtnColor":"#f6b800","AppBtnColorText":"#660202"},
+ {"AppName":"JavaScript Academy","AppIcon":"html://erick-DevProject.github.io/appAcademy/img/javascript.png","AppUrl":"url1","AppBtnText":"Instalar","AppBtnColor":"#f6b800","AppBtnColorText":"#660202"},
+ {"AppName":"Python Academy","AppIcon":"html://erick-DevProject.github.io/appAcademy/img/python.png","AppUrl":"url1","AppBtnText":"Instalar","AppBtnColor":"#f6b800","AppBtnColorText":"#660202"},
+ {"AppName":"Java Academy","AppIcon":"html://erick-DevProject.github.io/appAcademy/img/java.png","AppUrl":"url1","AppBtnText":"Instalar","AppBtnColor":"#f6b800","AppBtnColorText":"#660202"},
+ {"AppName":"Php Academy","AppIcon":"html://erick-DevProject.github.io/appAcademy/img/php.png","AppUrl":"url1","AppBtnText":"Instalar","AppBtnColor":"#f6b800","AppBtnColorText":"#660202"},
+ {"AppName":"C Academy","AppIcon":"html://erick-DevProject.github.io/appAcademy/img/c.png","AppUrl":"url1","AppBtnText":"Instalar","AppBtnColor":"#f6b800","AppBtnColorText":"#660202"},
+ {"AppName":"C++ Academy","AppIcon":"html://erick-DevProject.github.io/appAcademy/img/c%2B%2B.png.png","AppUrl":"url1","AppBtnText":"Instalar","AppBtnColor":"#f6b800","AppBtnColorText":"#660202"},
+ {"AppName":"C# Academy","AppIcon":"html://erick-DevProject.github.io/appAcademy/img/c-sharp.png","AppUrl":"url1","AppBtnText":"Instalar","AppBtnColor":"#f6b800","AppBtnColorText":"#660202"}]
  
