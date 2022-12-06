@@ -5,6 +5,6 @@
  {"AppName":"Java Academy","AppIcon":"https://erick-DevProject.github.io/appAcademy/img/java.png","AppUrl":"url1","AppBtnText":"Instalar","AppBtnColor":"#f6b800","AppBtnColorText":"#660202"},
  {"AppName":"Php Academy","AppIcon":"https://erick-DevProject.github.io/appAcademy/img/php.png","AppUrl":"url1","AppBtnText":"Instalar","AppBtnColor":"#f6b800","AppBtnColorText":"#660202"},
  {"AppName":"C Academy","AppIcon":"https://erick-DevProject.github.io/appAcademy/img/c.png","AppUrl":"url1","AppBtnText":"Instalar","AppBtnColor":"#f6b800","AppBtnColorText":"#660202"},
- {"AppName":"C++ Academy","AppIcon":"https://erick-DevProject.github.io/appAcademy/img/c%2B%2B.png.png","AppUrl":"url1","AppBtnText":"Instalar","AppBtnColor":"#f6b800","AppBtnColorText":"#660202"},
+ {"AppName":"C++ Academy","AppIcon":"https://erick-DevProject.github.io/appAcademy/img/c%2B%2B.png","AppUrl":"url1","AppBtnText":"Instalar","AppBtnColor":"#f6b800","AppBtnColorText":"#660202"},
  {"AppName":"C# Academy","AppIcon":"https://erick-DevProject.github.io/appAcademy/img/c-sharp.png","AppUrl":"url1","AppBtnText":"Instalar","AppBtnColor":"#f6b800","AppBtnColorText":"#660202"}]
  
