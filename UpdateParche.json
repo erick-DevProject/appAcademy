@@ -1,8 +1,8 @@
-[{"AppName":"Html Academy","AppPkgName":"com.htmlacademy.android" , "nameParche":"Html_01", "parche":
+[{"AppName":"Html Academy","AppPkgName":"com.htmlacademy.android" , "NameParche":"Html_01", "ContentParche":
     ""
  },
  
- {"AppName":"Css Academy","AppPkgName":"com.cssacademy.android", "nameParche":"Css_01", "parche":
+ {"AppName":"Css Academy","AppPkgName":"com.cssacademy.android", "NameParche":"Css_01", "ContentParche":
     ""
  },
 ]
