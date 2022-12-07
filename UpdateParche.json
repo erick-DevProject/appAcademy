@@ -1,8 +1,17 @@
-[{"AppName":"Html Academy","AppPkgName":"com.htmlacademy.android" , "NameParche":"Html_01", "ContentParche":
+[{
+   "AppName":"Html Academy",
+   "AppPkgName":"com.htmlacademy.android" ,
+   "AppAviso" : "",
+   "NameParche":"Html_01",
+    "ContentParche":
     ""
  },
- 
- {"AppName":"Css Academy","AppPkgName":"com.cssacademy.android", "NameParche":"Css_01", "ContentParche":
+ {
+   "AppName":"Css Academy",
+   "AppPkgName":"com.csslacademy.android" ,
+   "AppAviso" : "",
+   "NameParche":"Html_01",
+    "ContentParche":
     ""
  },
 ]
